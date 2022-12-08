@@ -1,0 +1,14 @@
+CODES BORROWED
+Index:
+What: Retreive readings from server
+why: code provided as an example
+Where : https://github.com/ucla-hci/m119
+
+What:Pong game 
+Why: The goal of the exercise is to implement the Arduino Connection
+Where https://www.youtube.com/watch?v=AiFqApeurqI&t=848s&ab_channel=BroCode
+
+Central:
+What : code for using noble and express to create web server and connect to the arduino
+Why: code provided as an example
+Where : https://github.com/ucla-hci/m119
